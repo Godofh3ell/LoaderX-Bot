@@ -23,7 +23,7 @@ Deploying is pretty much straight forward and is divided into several steps as f
 
 - Clone this repo:
 ```
-git clone https://github.com/SVR666/LoaderX-Bot mirror-bot/
+git clone https://github.com/Godofh3ell/LoaderX-Bot mirror-bot/
 cd mirror-bot
 ```
 - Install dependencies for running setup scripts:
