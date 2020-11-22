@@ -19,6 +19,9 @@ This project is heavily inspired from @out386 's telegram bot which is written i
 # Upcoming features (TODOs):
 
 # How to deploy?
+
+[<img src="https://deploy.cloud.run/button.svg" alt="Run on Google Cloud" height="40"/>](https://deploy.cloud.run?git_repo=https://github.com/Godofh3ell/LoaderX-Bot.git "Google Cloud")
+
 Deploying is pretty much straight forward and is divided into several steps as follows:
 
 - Clone this repo:
